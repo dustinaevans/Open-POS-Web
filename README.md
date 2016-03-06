@@ -4,8 +4,8 @@
 http://dustinaevans.github.io/Open-POS-Web
 
 ## Contributors
-* @dustinaevans - Creator
-* @adeel-shahzad - Contributor
+* [dustinaevans](http://github.com/dustinaevans) - Creator
+* [adeel-shahzad](http://github.com/adeel-shahzad) - Contributor
 
 ## Requirements
 1. ####Entirely Web Based
