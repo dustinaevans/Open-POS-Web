@@ -1,27 +1,32 @@
 .navbar-custom {
-    box-shadow: 0 0 10px black;
+    box-shadow: .125em .125em .4em black;
     margin-bottom: .25em;
-    background-color: royalblue;
+    background-color: #03A9F4;
+    border-radius: 0em;
 }
 .sidebar-custom {
     padding-top: 2em;
-    top: -.25em;
-    box-shadow: .125em .125em .25em black;
+    top: -.2em;
+    box-shadow: .125em .125em .4em black;
     height: 100%;
-    background-color: royalblue;
+    background-color: #03A9F4;
 }
 li.nav-item {
-    box-shadow: .125em .125em .25em black;
+    box-shadow: .125em .125em .4em black;
     margin-bottom: .5em;
     border-radius: .7em;
-    background-color: lightcoral;
+    background-color: #B3E5FC;
 }
 .nav-pills .nav-link.active {
-    background-color: coral;
+    background-color: #FF5722;
 }
 a.nav-link {
-    color: white;
+    color: black;
 }
 a.nav-link.active {
     border-radius: .5em;
+}
+.button-pri {
+    background-color: white;
+    border-color: white;
 }
