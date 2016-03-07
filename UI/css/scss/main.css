@@ -2,25 +2,46 @@
     color: #F3842e;
 }
 
-.sidebar {
-    height: 90%;
-    box-shadow: .15em .15em .5em black;
+.navbar-light:hover .navbar-brand:hover {
+    color: #F3842e;
 }
 
 .main {
     box-shadow: inset 0 0 .5em .25em black;
-    padding: 1.5em;
+    padding: 1em;
     overflow-y: auto;
     overflow-x: hidden;
-    display: flex;
-    flex-flow: row wrap;
+    height: 300px;
+    border-radius: 10px;
+    margin-top: .25em;
+}
+
+#toggle-button:hover {
+    margin-bottom: .5em;
+    border-width: thin;
+    background-color: #f3843e;
+    border-color: #6e6e6e;
+}
+
+#toggle-button:focus {
+    outline: 0;
+}
+
+#toggle-button {
+    margin-bottom: .5em;
+    border-width: thin;
+    border-color: #f3843e;
+    background-color: transparent;
 }
 
 @media screen and (min-width:768px) {
     .main {
-        height: 800px;
+        height: 700px;
     }
-    .nano .nano-slider {
-        background: #111;
+}
+
+@media screen and (min-width:769px) {
+    .main {
+        height: 800px;
     }
 }
