@@ -1,0 +1,26 @@
+.navbar-light .navbar-brand {
+    color: #F3842e;
+}
+
+.sidebar {
+    height: 90%;
+    box-shadow: .15em .15em .5em black;
+}
+
+.main {
+    box-shadow: inset 0 0 .5em .25em black;
+    padding: 1.5em;
+    overflow-y: auto;
+    overflow-x: hidden;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+@media screen and (min-width:768px) {
+    .main {
+        height: 800px;
+    }
+    .nano .nano-slider {
+        background: #111;
+    }
+}
