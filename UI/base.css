@@ -1,0 +1,27 @@
+.navbar-custom {
+    box-shadow: 0 0 10px black;
+    margin-bottom: .25em;
+    background-color: royalblue;
+}
+.sidebar-custom {
+    padding-top: 2em;
+    top: -.25em;
+    box-shadow: .125em .125em .25em black;
+    height: 100%;
+    background-color: royalblue;
+}
+li.nav-item {
+    box-shadow: .125em .125em .25em black;
+    margin-bottom: .5em;
+    border-radius: .7em;
+    background-color: lightcoral;
+}
+.nav-pills .nav-link.active {
+    background-color: coral;
+}
+a.nav-link {
+    color: white;
+}
+a.nav-link.active {
+    border-radius: .5em;
+}
