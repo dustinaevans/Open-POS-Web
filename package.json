@@ -1,0 +1,15 @@
+{
+    "name": "Open-POS-Web",
+    "version": "0.0.1",
+    "description": "Web port of java-open-pos",
+    "main": "server.js",
+    "author": "Dustin Evans",
+    "dependencies": {
+        "express": "latest"
+    }
+}
+
+// Put this file in a directory of your choosing.
+// CD to that directory.
+// Run npm install.
+// Run node server.js
