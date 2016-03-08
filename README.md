@@ -20,3 +20,9 @@ http://dustinaevans.github.io/Open-POS-Web
 3. ####Easy to set up and operate 
   * Anyone can install and set up the software (Frontend & Backend)
   * Workflow should be easy to follow
+
+## Dev installation
+* Clone the repo
+* CD to the folder where you cloned
+* Run npm install
+* Run node server.js or npm serve
