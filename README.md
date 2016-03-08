@@ -23,6 +23,6 @@ http://dustinaevans.github.io/Open-POS-Web
 
 ## Dev installation
 * Clone the repo
-* CD to the folder where you cloned
-* Run npm install
-* Run node server.js or npm serve
+* `cd` to the folder where you cloned
+* Run `npm install`
+* Run `node server.js` or `npm serve`
