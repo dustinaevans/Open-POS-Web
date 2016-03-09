@@ -4,7 +4,7 @@ var port = 80;
 var express = require('express');
 var app = express();
 app.listen(port);
-console.log("Magic happens on port " + port);
+console.log("Listening on port " + port);
 
 var baseDir = "/users/dustine/desktop/node/public";
 

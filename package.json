@@ -8,8 +8,3 @@
         "express": "latest"
     }
 }
-
-// Put this file in a directory of your choosing.
-// CD to that directory.
-// Run npm install.
-// Run node server.js
