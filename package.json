@@ -5,6 +5,7 @@
     "main": "server.js",
     "author": "Dustin Evans",
     "dependencies": {
-        "express": "latest"
+        "express": "latest",
+        "angular": "latest"
     }
 }
